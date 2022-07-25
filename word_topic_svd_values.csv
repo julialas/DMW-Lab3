@@ -1,0 +1,697 @@
+words,topic,score
+wxpython,Generic Python,0.0
+windows,Generic Python,0.0
+user-interface,Generic Python,0.0
+unicode,Generic Python,0.0
+tuples,Generic Python,0.0
+tkinter,Generic Python,0.0
+tensorflow2.0,Generic Python,0.0
+tensorflow,Generic Python,0.03964324785668549
+subprocess,Generic Python,0.0
+string,Generic Python,0.0
+sorting,Generic Python,0.0
+scipy,Generic Python,0.0
+scikit-learn,Generic Python,0.0
+regex,Generic Python,0.027043236283018895
+python-3.x,Generic Python,0.14853639645215783
+python-2.7,Generic Python,0.08126727123022512
+python,Generic Python,0.9597792916546926
+plot,Generic Python,0.0
+performance,Generic Python,0.0
+parsing,Generic Python,0.0
+pandas-groupby,Generic Python,0.0
+pandas,Generic Python,0.15154188859170675
+opencv,Generic Python,0.0
+numpy,Generic Python,0.06197311527429927
+neural-network,Generic Python,0.0
+mysql,Generic Python,0.0
+multithreading,Generic Python,0.0
+matrix,Generic Python,0.0
+matplotlib,Generic Python,0.038621103457072196
+macos,Generic Python,0.0
+machine-learning,Generic Python,0.0
+lstm,Generic Python,0.0
+loops,Generic Python,0.0
+list,Generic Python,0.03623584986248669
+linux,Generic Python,0.0
+keras,Generic Python,0.0
+jinja2,Generic Python,0.0
+html,Generic Python,0.0
+google-cloud-datastore,Generic Python,0.0
+google-app-engine,Generic Python,0.02812175927549381
+function,Generic Python,0.0
+for-loop,Generic Python,0.0
+django-views,Generic Python,0.0
+django-templates,Generic Python,0.0
+django-rest-framework,Generic Python,0.0
+django-models,Generic Python,0.0
+django-forms,Generic Python,0.0
+django-admin,Generic Python,0.0
+django,Generic Python,0.10973823105053163
+dictionary,Generic Python,0.027832956779949736
+deep-learning,Generic Python,0.0
+datetime,Generic Python,0.0
+dataframe,Generic Python,0.07491938291398792
+csv,Generic Python,0.0
+conv-neural-network,Generic Python,0.0
+c++,Generic Python,0.0
+arrays,Generic Python,0.0
+algorithm,Generic Python,0.0
+wxpython,Django Framework,0.0
+windows,Django Framework,0.0
+user-interface,Django Framework,0.0
+unicode,Django Framework,0.0
+tuples,Django Framework,0.0
+tkinter,Django Framework,0.0
+tensorflow2.0,Django Framework,0.0
+tensorflow,Django Framework,0.0
+subprocess,Django Framework,0.0
+string,Django Framework,0.0
+sorting,Django Framework,0.0
+scipy,Django Framework,0.0
+scikit-learn,Django Framework,0.0
+regex,Django Framework,0.0
+python-3.x,Django Framework,0.07167030680101887
+python-2.7,Django Framework,0.0
+python,Django Framework,0.0
+plot,Django Framework,0.0
+performance,Django Framework,0.0
+parsing,Django Framework,0.0
+pandas-groupby,Django Framework,0.0
+pandas,Django Framework,0.16167427209683524
+opencv,Django Framework,0.0
+numpy,Django Framework,0.0
+neural-network,Django Framework,0.0
+mysql,Django Framework,0.02699128104465149
+multithreading,Django Framework,0.0
+matrix,Django Framework,0.0
+matplotlib,Django Framework,0.0
+macos,Django Framework,0.0
+machine-learning,Django Framework,0.0
+lstm,Django Framework,0.0
+loops,Django Framework,0.0
+list,Django Framework,0.0
+linux,Django Framework,0.0
+keras,Django Framework,0.0
+jinja2,Django Framework,0.0
+html,Django Framework,0.03906596971658305
+google-cloud-datastore,Django Framework,0.0
+google-app-engine,Django Framework,0.03369820839170991
+function,Django Framework,0.0
+for-loop,Django Framework,0.0
+django-views,Django Framework,0.03599437237386713
+django-templates,Django Framework,0.03198191976600272
+django-rest-framework,Django Framework,0.07403743074685624
+django-models,Django Framework,0.0899321779633778
+django-forms,Django Framework,0.035784297867397105
+django-admin,Django Framework,0.028667783130784923
+django,Django Framework,0.965587068095199
+dictionary,Django Framework,0.0
+deep-learning,Django Framework,0.0
+datetime,Django Framework,0.0
+dataframe,Django Framework,0.06785181835675612
+csv,Django Framework,0.0
+conv-neural-network,Django Framework,0.0
+c++,Django Framework,0.0
+arrays,Django Framework,0.0
+algorithm,Django Framework,0.0
+wxpython,Web App,0.0
+windows,Web App,0.0
+user-interface,Web App,0.0
+unicode,Web App,0.0
+tuples,Web App,0.0
+tkinter,Web App,0.0
+tensorflow2.0,Web App,0.0
+tensorflow,Web App,0.0
+subprocess,Web App,0.0
+string,Web App,0.0416332241904238
+sorting,Web App,0.0
+scipy,Web App,0.0
+scikit-learn,Web App,0.0
+regex,Web App,0.06950954182370879
+python-3.x,Web App,0.07486841524507161
+python-2.7,Web App,0.4055848552207138
+python,Web App,0.0
+plot,Web App,0.0
+performance,Web App,0.0
+parsing,Web App,0.0
+pandas-groupby,Web App,0.0
+pandas,Web App,0.0
+opencv,Web App,0.0
+numpy,Web App,0.0
+neural-network,Web App,0.0
+mysql,Web App,0.0
+multithreading,Web App,0.0
+matrix,Web App,0.0
+matplotlib,Web App,0.0
+macos,Web App,0.0
+machine-learning,Web App,0.0
+lstm,Web App,0.0
+loops,Web App,0.0
+list,Web App,0.16658742289329748
+linux,Web App,0.0
+keras,Web App,0.0
+jinja2,Web App,0.03423586236800435
+html,Web App,0.02596334552618887
+google-cloud-datastore,Web App,0.0821584776185021
+google-app-engine,Web App,0.9538686878006085
+function,Web App,0.0
+for-loop,Web App,0.0
+django-views,Web App,0.0
+django-templates,Web App,0.0
+django-rest-framework,Web App,0.0
+django-models,Web App,0.0
+django-forms,Web App,0.0
+django-admin,Web App,0.0
+django,Web App,0.0
+dictionary,Web App,0.038969325580859075
+deep-learning,Web App,0.0
+datetime,Web App,0.0
+dataframe,Web App,0.0
+csv,Web App,0.0
+conv-neural-network,Web App,0.0
+c++,Web App,0.0
+arrays,Web App,0.0
+algorithm,Web App,0.0
+wxpython,Python Data Types,0.0
+windows,Python Data Types,0.0
+user-interface,Python Data Types,0.0
+unicode,Python Data Types,0.0
+tuples,Python Data Types,0.052474923774795075
+tkinter,Python Data Types,0.0
+tensorflow2.0,Python Data Types,0.0
+tensorflow,Python Data Types,0.0
+subprocess,Python Data Types,0.0
+string,Python Data Types,0.18894492913645253
+sorting,Python Data Types,0.03783879225375305
+scipy,Python Data Types,0.07351032199536851
+scikit-learn,Python Data Types,0.0
+regex,Python Data Types,0.08379978051072415
+python-3.x,Python Data Types,0.11331420586608468
+python-2.7,Python Data Types,0.11720627204469704
+python,Python Data Types,0.0
+plot,Python Data Types,0.0
+performance,Python Data Types,0.04302840382490761
+parsing,Python Data Types,0.0
+pandas-groupby,Python Data Types,0.0
+pandas,Python Data Types,0.0
+opencv,Python Data Types,0.0
+numpy,Python Data Types,0.3363587207680073
+neural-network,Python Data Types,0.0
+mysql,Python Data Types,0.0
+multithreading,Python Data Types,0.0
+matrix,Python Data Types,0.0
+matplotlib,Python Data Types,0.06093130962641796
+macos,Python Data Types,0.0
+machine-learning,Python Data Types,0.0
+lstm,Python Data Types,0.0
+loops,Python Data Types,0.03147570521513998
+list,Python Data Types,0.8908558095422539
+linux,Python Data Types,0.0
+keras,Python Data Types,0.0
+jinja2,Python Data Types,0.0
+html,Python Data Types,0.0
+google-cloud-datastore,Python Data Types,0.0
+google-app-engine,Python Data Types,0.0
+function,Python Data Types,0.028620096319092334
+for-loop,Python Data Types,0.025592690304355008
+django-views,Python Data Types,0.0
+django-templates,Python Data Types,0.0
+django-rest-framework,Python Data Types,0.0
+django-models,Python Data Types,0.0
+django-forms,Python Data Types,0.0
+django-admin,Python Data Types,0.0
+django,Python Data Types,0.0
+dictionary,Python Data Types,0.20765860655589302
+deep-learning,Python Data Types,0.0
+datetime,Python Data Types,0.0
+dataframe,Python Data Types,0.0
+csv,Python Data Types,0.0
+conv-neural-network,Python Data Types,0.0
+c++,Python Data Types,0.0
+arrays,Python Data Types,0.052478529976275036
+algorithm,Python Data Types,0.025714440983238888
+wxpython,Web Scraping,0.0
+windows,Web Scraping,0.0
+user-interface,Web Scraping,0.0
+unicode,Web Scraping,0.03904966274773252
+tuples,Web Scraping,0.0
+tkinter,Web Scraping,0.0
+tensorflow2.0,Web Scraping,0.0
+tensorflow,Web Scraping,0.0
+subprocess,Web Scraping,0.0
+string,Web Scraping,0.3611314655061959
+sorting,Web Scraping,0.0
+scipy,Web Scraping,0.0
+scikit-learn,Web Scraping,0.0
+regex,Web Scraping,0.8967602741612608
+python-3.x,Web Scraping,0.03565859260383112
+python-2.7,Web Scraping,0.0
+python,Web Scraping,0.0
+plot,Web Scraping,0.0
+performance,Web Scraping,0.0
+parsing,Web Scraping,0.049730845473002175
+pandas-groupby,Web Scraping,0.0
+pandas,Web Scraping,0.0
+opencv,Web Scraping,0.0
+numpy,Web Scraping,0.035982779056660585
+neural-network,Web Scraping,0.0
+mysql,Web Scraping,0.0
+multithreading,Web Scraping,0.0
+matrix,Web Scraping,0.0
+matplotlib,Web Scraping,0.0
+macos,Web Scraping,0.0
+machine-learning,Web Scraping,0.0
+lstm,Web Scraping,0.0
+loops,Web Scraping,0.0
+list,Web Scraping,0.0
+linux,Web Scraping,0.0
+keras,Web Scraping,0.0
+jinja2,Web Scraping,0.0
+html,Web Scraping,0.05151756918950376
+google-cloud-datastore,Web Scraping,0.0
+google-app-engine,Web Scraping,0.0
+function,Web Scraping,0.0
+for-loop,Web Scraping,0.0
+django-views,Web Scraping,0.0
+django-templates,Web Scraping,0.0
+django-rest-framework,Web Scraping,0.0
+django-models,Web Scraping,0.0
+django-forms,Web Scraping,0.0
+django-admin,Web Scraping,0.0
+django,Web Scraping,0.0
+dictionary,Web Scraping,0.0
+deep-learning,Web Scraping,0.0
+datetime,Web Scraping,0.0
+dataframe,Web Scraping,0.0
+csv,Web Scraping,0.0
+conv-neural-network,Web Scraping,0.0
+c++,Web Scraping,0.0
+arrays,Web Scraping,0.0
+algorithm,Web Scraping,0.0
+wxpython,GUI Tools,0.04054534876310964
+windows,GUI Tools,0.9468411014784877
+user-interface,GUI Tools,0.04374249096080431
+unicode,GUI Tools,0.0
+tuples,GUI Tools,0.0
+tkinter,GUI Tools,0.1370226656972121
+tensorflow2.0,GUI Tools,0.0
+tensorflow,GUI Tools,0.0
+subprocess,GUI Tools,0.034105962579935846
+string,GUI Tools,0.0
+sorting,GUI Tools,0.0
+scipy,GUI Tools,0.0
+scikit-learn,GUI Tools,0.0
+regex,GUI Tools,0.0
+python-3.x,GUI Tools,0.03481756350178716
+python-2.7,GUI Tools,0.0
+python,GUI Tools,0.0
+plot,GUI Tools,0.0
+performance,GUI Tools,0.0
+parsing,GUI Tools,0.0
+pandas-groupby,GUI Tools,0.0
+pandas,GUI Tools,0.0
+opencv,GUI Tools,0.0
+numpy,GUI Tools,0.0
+neural-network,GUI Tools,0.0
+mysql,GUI Tools,0.0
+multithreading,GUI Tools,0.042852606315780875
+matrix,GUI Tools,0.0
+matplotlib,GUI Tools,0.0
+macos,GUI Tools,0.06539262338682207
+machine-learning,GUI Tools,0.0
+lstm,GUI Tools,0.0
+loops,GUI Tools,0.0
+list,GUI Tools,0.0
+linux,GUI Tools,0.25072191543097255
+keras,GUI Tools,0.0
+jinja2,GUI Tools,0.0
+html,GUI Tools,0.0
+google-cloud-datastore,GUI Tools,0.0
+google-app-engine,GUI Tools,0.0
+function,GUI Tools,0.0
+for-loop,GUI Tools,0.0
+django-views,GUI Tools,0.0
+django-templates,GUI Tools,0.0
+django-rest-framework,GUI Tools,0.0
+django-models,GUI Tools,0.0
+django-forms,GUI Tools,0.0
+django-admin,GUI Tools,0.0
+django,GUI Tools,0.0
+dictionary,GUI Tools,0.0
+deep-learning,GUI Tools,0.0
+datetime,GUI Tools,0.0
+dataframe,GUI Tools,0.0
+csv,GUI Tools,0.0
+conv-neural-network,GUI Tools,0.0
+c++,GUI Tools,0.04918504736690188
+arrays,GUI Tools,0.0
+algorithm,GUI Tools,0.0
+wxpython,Python Version 2.7,0.0
+windows,Python Version 2.7,0.0
+user-interface,Python Version 2.7,0.0
+unicode,Python Version 2.7,0.0
+tuples,Python Version 2.7,0.0
+tkinter,Python Version 2.7,0.03772032940692222
+tensorflow2.0,Python Version 2.7,0.0
+tensorflow,Python Version 2.7,0.0
+subprocess,Python Version 2.7,0.0
+string,Python Version 2.7,0.0371804725434037
+sorting,Python Version 2.7,0.0
+scipy,Python Version 2.7,0.0379156622351831
+scikit-learn,Python Version 2.7,0.0
+regex,Python Version 2.7,0.0783974811606601
+python-3.x,Python Version 2.7,0.19774346013812744
+python-2.7,Python Version 2.7,0.88624476558893
+python,Python Version 2.7,0.0
+plot,Python Version 2.7,0.0
+performance,Python Version 2.7,0.0
+parsing,Python Version 2.7,0.0
+pandas-groupby,Python Version 2.7,0.0
+pandas,Python Version 2.7,0.17717158948028153
+opencv,Python Version 2.7,0.0
+numpy,Python Version 2.7,0.14024727547723942
+neural-network,Python Version 2.7,0.0
+mysql,Python Version 2.7,0.0
+multithreading,Python Version 2.7,0.0
+matrix,Python Version 2.7,0.0
+matplotlib,Python Version 2.7,0.06615476506974331
+macos,Python Version 2.7,0.0
+machine-learning,Python Version 2.7,0.0
+lstm,Python Version 2.7,0.0
+loops,Python Version 2.7,0.0
+list,Python Version 2.7,0.05589975316942309
+linux,Python Version 2.7,0.0
+keras,Python Version 2.7,0.0
+jinja2,Python Version 2.7,0.0
+html,Python Version 2.7,0.0
+google-cloud-datastore,Python Version 2.7,0.0
+google-app-engine,Python Version 2.7,0.0
+function,Python Version 2.7,0.0
+for-loop,Python Version 2.7,0.0
+django-views,Python Version 2.7,0.0
+django-templates,Python Version 2.7,0.0
+django-rest-framework,Python Version 2.7,0.0
+django-models,Python Version 2.7,0.0
+django-forms,Python Version 2.7,0.0
+django-admin,Python Version 2.7,0.0
+django,Python Version 2.7,0.0649008039909062
+dictionary,Python Version 2.7,0.04532285043370649
+deep-learning,Python Version 2.7,0.0
+datetime,Python Version 2.7,0.0
+dataframe,Python Version 2.7,0.07610199314339733
+csv,Python Version 2.7,0.037468700118458154
+conv-neural-network,Python Version 2.7,0.0
+c++,Python Version 2.7,0.0
+arrays,Python Version 2.7,0.12597377373802965
+algorithm,Python Version 2.7,0.0
+wxpython,Computations Tools,0.0
+windows,Computations Tools,0.0
+user-interface,Computations Tools,0.0
+unicode,Computations Tools,0.0
+tuples,Computations Tools,0.0
+tkinter,Computations Tools,0.0
+tensorflow2.0,Computations Tools,0.0
+tensorflow,Computations Tools,0.08102471418430926
+subprocess,Computations Tools,0.0
+string,Computations Tools,0.0454950020692802
+sorting,Computations Tools,0.0
+scipy,Computations Tools,0.15897580024026614
+scikit-learn,Computations Tools,0.02940634654255319
+regex,Computations Tools,0.0
+python-3.x,Computations Tools,0.0958893063406677
+python-2.7,Computations Tools,0.12718049123709765
+python,Computations Tools,0.0
+plot,Computations Tools,0.029262542387056646
+performance,Computations Tools,0.026595250033314297
+parsing,Computations Tools,0.0
+pandas-groupby,Computations Tools,0.0
+pandas,Computations Tools,0.11993748146539054
+opencv,Computations Tools,0.028244277962935938
+numpy,Computations Tools,0.8835776320871183
+neural-network,Computations Tools,0.0
+mysql,Computations Tools,0.0
+multithreading,Computations Tools,0.0
+matrix,Computations Tools,0.04630704240594685
+matplotlib,Computations Tools,0.15762759435579016
+macos,Computations Tools,0.0
+machine-learning,Computations Tools,0.032748083197592134
+lstm,Computations Tools,0.0
+loops,Computations Tools,0.0
+list,Computations Tools,0.07835353880733165
+linux,Computations Tools,0.0
+keras,Computations Tools,0.0501333864324905
+jinja2,Computations Tools,0.0
+html,Computations Tools,0.0
+google-cloud-datastore,Computations Tools,0.0
+google-app-engine,Computations Tools,0.0
+function,Computations Tools,0.0
+for-loop,Computations Tools,0.0
+django-views,Computations Tools,0.0
+django-templates,Computations Tools,0.0
+django-rest-framework,Computations Tools,0.0
+django-models,Computations Tools,0.0
+django-forms,Computations Tools,0.0
+django-admin,Computations Tools,0.0
+django,Computations Tools,0.055719696237269835
+dictionary,Computations Tools,0.05511664387980299
+deep-learning,Computations Tools,0.0
+datetime,Computations Tools,0.0
+dataframe,Computations Tools,0.0
+csv,Computations Tools,0.0
+conv-neural-network,Computations Tools,0.0
+c++,Computations Tools,0.0
+arrays,Computations Tools,0.23511937169740532
+algorithm,Computations Tools,0.0
+wxpython,Python Version 3,0.0
+windows,Python Version 3,0.0
+user-interface,Python Version 3,0.0
+unicode,Python Version 3,0.0
+tuples,Python Version 3,0.0
+tkinter,Python Version 3,0.04816029955357078
+tensorflow2.0,Python Version 3,0.0
+tensorflow,Python Version 3,0.0
+subprocess,Python Version 3,0.0
+string,Python Version 3,0.056006299123613934
+sorting,Python Version 3,0.0
+scipy,Python Version 3,0.0
+scikit-learn,Python Version 3,0.0
+regex,Python Version 3,0.040832691715332305
+python-3.x,Python Version 3,0.9215338462731745
+python-2.7,Python Version 3,0.19344855580469092
+python,Python Version 3,0.0
+plot,Python Version 3,0.0
+performance,Python Version 3,0.0
+parsing,Python Version 3,0.0
+pandas-groupby,Python Version 3,0.0
+pandas,Python Version 3,0.031061849826358526
+opencv,Python Version 3,0.0
+numpy,Python Version 3,0.0
+neural-network,Python Version 3,0.0
+mysql,Python Version 3,0.0
+multithreading,Python Version 3,0.0
+matrix,Python Version 3,0.0
+matplotlib,Python Version 3,0.0
+macos,Python Version 3,0.0
+machine-learning,Python Version 3,0.0
+lstm,Python Version 3,0.0
+loops,Python Version 3,0.0
+list,Python Version 3,0.10652229575098511
+linux,Python Version 3,0.0
+keras,Python Version 3,0.0
+jinja2,Python Version 3,0.0
+html,Python Version 3,0.0
+google-cloud-datastore,Python Version 3,0.0
+google-app-engine,Python Version 3,0.0
+function,Python Version 3,0.025083676413062878
+for-loop,Python Version 3,0.0
+django-views,Python Version 3,0.0
+django-templates,Python Version 3,0.0
+django-rest-framework,Python Version 3,0.0
+django-models,Python Version 3,0.0
+django-forms,Python Version 3,0.0
+django-admin,Python Version 3,0.0
+django,Python Version 3,0.22558364080179172
+dictionary,Python Version 3,0.06338822415127081
+deep-learning,Python Version 3,0.0
+datetime,Python Version 3,0.0
+dataframe,Python Version 3,0.0
+csv,Python Version 3,0.0
+conv-neural-network,Python Version 3,0.0
+c++,Python Version 3,0.0
+arrays,Python Version 3,0.0
+algorithm,Python Version 3,0.0
+wxpython,Data Transformation,0.0
+windows,Data Transformation,0.0
+user-interface,Data Transformation,0.0
+unicode,Data Transformation,0.0
+tuples,Data Transformation,0.0
+tkinter,Data Transformation,0.0
+tensorflow2.0,Data Transformation,0.0
+tensorflow,Data Transformation,0.0
+subprocess,Data Transformation,0.0
+string,Data Transformation,0.0
+sorting,Data Transformation,0.0
+scipy,Data Transformation,0.07473585714438531
+scikit-learn,Data Transformation,0.0
+regex,Data Transformation,0.0
+python-3.x,Data Transformation,0.19473251340933018
+python-2.7,Data Transformation,0.06684012955588638
+python,Data Transformation,0.0
+plot,Data Transformation,0.033232064209337796
+performance,Data Transformation,0.0
+parsing,Data Transformation,0.0
+pandas-groupby,Data Transformation,0.041292071946749095
+pandas,Data Transformation,0.7905037240335963
+opencv,Data Transformation,0.0
+numpy,Data Transformation,0.20065237779393708
+neural-network,Data Transformation,0.0
+mysql,Data Transformation,0.0
+multithreading,Data Transformation,0.0
+matrix,Data Transformation,0.02757194302097179
+matplotlib,Data Transformation,0.08011873120087107
+macos,Data Transformation,0.0
+machine-learning,Data Transformation,0.0
+lstm,Data Transformation,0.0
+loops,Data Transformation,0.0
+list,Data Transformation,0.0
+linux,Data Transformation,0.0
+keras,Data Transformation,0.0
+jinja2,Data Transformation,0.0
+html,Data Transformation,0.0
+google-cloud-datastore,Data Transformation,0.0
+google-app-engine,Data Transformation,0.0
+function,Data Transformation,0.0
+for-loop,Data Transformation,0.0
+django-views,Data Transformation,0.0
+django-templates,Data Transformation,0.0
+django-rest-framework,Data Transformation,0.0
+django-models,Data Transformation,0.0
+django-forms,Data Transformation,0.0
+django-admin,Data Transformation,0.0
+django,Data Transformation,0.07179091802453533
+dictionary,Data Transformation,0.0
+deep-learning,Data Transformation,0.0
+datetime,Data Transformation,0.026969929169746765
+dataframe,Data Transformation,0.2305628935286246
+csv,Data Transformation,0.04284872415416192
+conv-neural-network,Data Transformation,0.0
+c++,Data Transformation,0.0
+arrays,Data Transformation,0.08947131904817705
+algorithm,Data Transformation,0.0
+wxpython,Deep Learning,0.0
+windows,Deep Learning,0.0
+user-interface,Deep Learning,0.0
+unicode,Deep Learning,0.0
+tuples,Deep Learning,0.0
+tkinter,Deep Learning,0.0
+tensorflow2.0,Deep Learning,0.03252221136119216
+tensorflow,Deep Learning,0.8086643873114381
+subprocess,Deep Learning,0.0
+string,Deep Learning,0.0
+sorting,Deep Learning,0.0
+scipy,Deep Learning,0.0
+scikit-learn,Deep Learning,0.03780538635962299
+regex,Deep Learning,0.0
+python-3.x,Deep Learning,0.0
+python-2.7,Deep Learning,0.0
+python,Deep Learning,0.0
+plot,Deep Learning,0.0
+performance,Deep Learning,0.0
+parsing,Deep Learning,0.0
+pandas-groupby,Deep Learning,0.0
+pandas,Deep Learning,0.0
+opencv,Deep Learning,0.0
+numpy,Deep Learning,0.0
+neural-network,Deep Learning,0.08921787706355186
+mysql,Deep Learning,0.0
+multithreading,Deep Learning,0.0
+matrix,Deep Learning,0.0
+matplotlib,Deep Learning,0.0
+macos,Deep Learning,0.0
+machine-learning,Deep Learning,0.18315197255908527
+lstm,Deep Learning,0.047190486831586595
+loops,Deep Learning,0.0
+list,Deep Learning,0.0
+linux,Deep Learning,0.0
+keras,Deep Learning,0.44220500641124355
+jinja2,Deep Learning,0.0
+html,Deep Learning,0.0
+google-cloud-datastore,Deep Learning,0.0
+google-app-engine,Deep Learning,0.0
+function,Deep Learning,0.0
+for-loop,Deep Learning,0.0
+django-views,Deep Learning,0.0
+django-templates,Deep Learning,0.0
+django-rest-framework,Deep Learning,0.0
+django-models,Deep Learning,0.0
+django-forms,Deep Learning,0.0
+django-admin,Deep Learning,0.0
+django,Deep Learning,0.050104497200781035
+dictionary,Deep Learning,0.0
+deep-learning,Deep Learning,0.14944177358143812
+datetime,Deep Learning,0.0
+dataframe,Deep Learning,0.04632935645959278
+csv,Deep Learning,0.0
+conv-neural-network,Deep Learning,0.05250650791479771
+c++,Deep Learning,0.0
+arrays,Deep Learning,0.0
+algorithm,Deep Learning,0.0
+wxpython,Machine Learning,0.0
+windows,Machine Learning,0.0
+user-interface,Machine Learning,0.0
+unicode,Machine Learning,0.0
+tuples,Machine Learning,0.0
+tkinter,Machine Learning,0.0
+tensorflow2.0,Machine Learning,0.0
+tensorflow,Machine Learning,0.23383672826400823
+subprocess,Machine Learning,0.0
+string,Machine Learning,0.0
+sorting,Machine Learning,0.0
+scipy,Machine Learning,0.05715644852225733
+scikit-learn,Machine Learning,0.0
+regex,Machine Learning,0.0
+python-3.x,Machine Learning,0.0
+python-2.7,Machine Learning,0.0
+python,Machine Learning,0.0
+plot,Machine Learning,0.0
+performance,Machine Learning,0.0
+parsing,Machine Learning,0.0
+pandas-groupby,Machine Learning,0.0
+pandas,Machine Learning,0.0
+opencv,Machine Learning,0.04413863155154445
+numpy,Machine Learning,0.9105799158252526
+neural-network,Machine Learning,0.0
+mysql,Machine Learning,0.0
+multithreading,Machine Learning,0.0
+matrix,Machine Learning,0.0
+matplotlib,Machine Learning,0.11851924930003034
+macos,Machine Learning,0.0
+machine-learning,Machine Learning,0.06050354043625564
+lstm,Machine Learning,0.0
+loops,Machine Learning,0.0
+list,Machine Learning,0.0
+linux,Machine Learning,0.0
+keras,Machine Learning,0.15399737416248854
+jinja2,Machine Learning,0.0
+html,Machine Learning,0.0
+google-cloud-datastore,Machine Learning,0.0
+google-app-engine,Machine Learning,0.0
+function,Machine Learning,0.0
+for-loop,Machine Learning,0.0
+django-views,Machine Learning,0.0
+django-templates,Machine Learning,0.0
+django-rest-framework,Machine Learning,0.0
+django-models,Machine Learning,0.0
+django-forms,Machine Learning,0.0
+django-admin,Machine Learning,0.0
+django,Machine Learning,0.11172197995259953
+dictionary,Machine Learning,0.0
+deep-learning,Machine Learning,0.046550707834350724
+datetime,Machine Learning,0.0
+dataframe,Machine Learning,0.0
+csv,Machine Learning,0.0
+conv-neural-network,Machine Learning,0.0
+c++,Machine Learning,0.0
+arrays,Machine Learning,0.16907906792251923
+algorithm,Machine Learning,0.0
